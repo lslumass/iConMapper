@@ -40,8 +40,5 @@ options:
   --labels         Overlay bead type labels on the output image
   --style STYLE    Visualization style: 1=colored beads, 2=circles (default: 1)
 ```
-### style1
-<img src="./image1.png" width="300" height="150"/> 
-
-### style2
-<img src="./image2.png" width="300" height="150"/>
+**style 1 and style 2**   
+<img src="./image1.png" width="300" height="150"/> <img src="./image2.png" width="300" height="150"/>
