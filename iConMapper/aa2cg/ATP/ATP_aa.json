@@ -1,0 +1,393 @@
+{
+    "compound name": "ATP",
+    "smiles": "NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)OP(O)(O)=O)[C@@H](O)[C@H]1O",
+    "cgnodes": [],
+    "cgnode_types": [],
+    "nodes": [
+        {
+            "id": 0,
+            "element": "N",
+            "charge": -0.382,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 1,
+            "element": "C",
+            "charge": 0.155,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 2,
+            "element": "N",
+            "charge": -0.217,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 3,
+            "element": "C",
+            "charge": 0.12,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 4,
+            "element": "N",
+            "charge": -0.216,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 5,
+            "element": "C",
+            "charge": 0.167,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 6,
+            "element": "C",
+            "charge": 0.15,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 7,
+            "element": "N",
+            "charge": -0.231,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 8,
+            "element": "C",
+            "charge": 0.099,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 9,
+            "element": "N",
+            "charge": -0.285,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 10,
+            "element": "C",
+            "charge": 0.165,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 11,
+            "element": "O",
+            "charge": -0.347,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 12,
+            "element": "C",
+            "charge": 0.113,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 13,
+            "element": "C",
+            "charge": 0.088,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 14,
+            "element": "O",
+            "charge": -0.284,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 15,
+            "element": "P",
+            "charge": 0.481,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 16,
+            "element": "O",
+            "charge": -0.302,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 17,
+            "element": "O",
+            "charge": -0.228,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 18,
+            "element": "O",
+            "charge": -0.184,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 19,
+            "element": "P",
+            "charge": 0.49,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 20,
+            "element": "O",
+            "charge": -0.302,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 21,
+            "element": "O",
+            "charge": -0.227,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 22,
+            "element": "O",
+            "charge": -0.185,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 23,
+            "element": "P",
+            "charge": 0.478,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 24,
+            "element": "O",
+            "charge": -0.302,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 25,
+            "element": "O",
+            "charge": -0.302,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 26,
+            "element": "O",
+            "charge": -0.228,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 27,
+            "element": "C",
+            "charge": 0.113,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 28,
+            "element": "O",
+            "charge": -0.387,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 29,
+            "element": "C",
+            "charge": 0.128,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        },
+        {
+            "id": 30,
+            "element": "O",
+            "charge": -0.386,
+            "cg_id": 0,
+            "cg_type": "C3E"
+        }
+    ],
+    "edges": [
+        {
+            "source": 0,
+            "target": 1,
+            "bondtype": 1.0
+        },
+        {
+            "source": 1,
+            "target": 2,
+            "bondtype": 1.5
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "bondtype": 1.5
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "bondtype": 1.5
+        },
+        {
+            "source": 4,
+            "target": 5,
+            "bondtype": 1.5
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "bondtype": 1.5
+        },
+        {
+            "source": 6,
+            "target": 7,
+            "bondtype": 1.5
+        },
+        {
+            "source": 7,
+            "target": 8,
+            "bondtype": 1.5
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "bondtype": 1.5
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "bondtype": 1.0
+        },
+        {
+            "source": 10,
+            "target": 11,
+            "bondtype": 1.0
+        },
+        {
+            "source": 11,
+            "target": 12,
+            "bondtype": 1.0
+        },
+        {
+            "source": 12,
+            "target": 13,
+            "bondtype": 1.0
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "bondtype": 1.0
+        },
+        {
+            "source": 14,
+            "target": 15,
+            "bondtype": 1.0
+        },
+        {
+            "source": 15,
+            "target": 16,
+            "bondtype": 1.0
+        },
+        {
+            "source": 15,
+            "target": 17,
+            "bondtype": 2.0
+        },
+        {
+            "source": 15,
+            "target": 18,
+            "bondtype": 1.0
+        },
+        {
+            "source": 18,
+            "target": 19,
+            "bondtype": 1.0
+        },
+        {
+            "source": 19,
+            "target": 20,
+            "bondtype": 1.0
+        },
+        {
+            "source": 19,
+            "target": 21,
+            "bondtype": 2.0
+        },
+        {
+            "source": 19,
+            "target": 22,
+            "bondtype": 1.0
+        },
+        {
+            "source": 22,
+            "target": 23,
+            "bondtype": 1.0
+        },
+        {
+            "source": 23,
+            "target": 24,
+            "bondtype": 1.0
+        },
+        {
+            "source": 23,
+            "target": 25,
+            "bondtype": 1.0
+        },
+        {
+            "source": 23,
+            "target": 26,
+            "bondtype": 2.0
+        },
+        {
+            "source": 12,
+            "target": 27,
+            "bondtype": 1.0
+        },
+        {
+            "source": 27,
+            "target": 28,
+            "bondtype": 1.0
+        },
+        {
+            "source": 27,
+            "target": 29,
+            "bondtype": 1.0
+        },
+        {
+            "source": 29,
+            "target": 30,
+            "bondtype": 1.0
+        },
+        {
+            "source": 6,
+            "target": 1,
+            "bondtype": 1.5
+        },
+        {
+            "source": 29,
+            "target": 10,
+            "bondtype": 1.0
+        },
+        {
+            "source": 9,
+            "target": 5,
+            "bondtype": 1.5
+        }
+    ],
+    "note": "generated by MappingPrediction.py"
+}

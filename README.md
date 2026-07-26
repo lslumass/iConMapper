@@ -19,10 +19,6 @@ This is a retrained DSGPM-TP model using iConDataset. For model details, please 
 - tqdm==4.66.1
 - tensorboard
 
-## Training
-```
-
-```
 
 ## Mapping (Prediction)
 use **MappingPrediction.py** to predict the mapping of new metoblites   

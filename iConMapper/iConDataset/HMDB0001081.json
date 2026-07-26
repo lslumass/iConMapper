@@ -1,0 +1,669 @@
+{
+  "compound name": "HMDB0001081",
+  "smiles": "CC(=O)N[C@@H]1[C@@H](O)[C@H](O[C@@H]2O[C@H](CO[C@]3(C(=O)O)C[C@H](O)[C@@H](NC(C)=O)[C@H]([C@H](O)[C@H](O)CO)O3)[C@H](O)[C@H](O)[C@H]2O)[C@@H](CO)O[C@H]1O",
+  "cgnodes": [
+    0,
+    2,
+    0,
+    2,
+    0,
+    1,
+    2,
+    1,
+    1,
+    4,
+    3,
+    7,
+    7,
+    7,
+    6,
+    5,
+    6,
+    6,
+    5,
+    6,
+    5,
+    3,
+    8,
+    8,
+    10,
+    8,
+    10,
+    9,
+    9,
+    9,
+    13,
+    13,
+    14,
+    14,
+    13,
+    13,
+    11,
+    11,
+    11,
+    11,
+    12,
+    12,
+    12,
+    4,
+    4,
+    4
+  ],
+  "cgnode_types": [
+    "P1S",
+    "C3E",
+    "P1S",
+    "C3E",
+    "P1S",
+    "P1T",
+    "C3E",
+    "P1T",
+    "P1T",
+    "M03",
+    "P1S",
+    "C3E",
+    "C3E",
+    "C3E",
+    "M05",
+    "P1T",
+    "M05",
+    "M05",
+    "P1T",
+    "M05",
+    "P1T",
+    "P1S",
+    "C3E",
+    "C3E",
+    "RS2",
+    "C3E",
+    "RS2",
+    "P1T",
+    "P1T",
+    "P1T",
+    "M05",
+    "M05",
+    "P1S",
+    "P1S",
+    "M05",
+    "M05",
+    "M03",
+    "M03",
+    "M03",
+    "M03",
+    "M02",
+    "M02",
+    "M02",
+    "M03",
+    "M03",
+    "M03"
+  ],
+  "nodes": [
+    {
+      "id": 0,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 0,
+      "cg_type": "P1S"
+    },
+    {
+      "id": 1,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 2,
+      "cg_type": "C3E"
+    },
+    {
+      "id": 2,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 0,
+      "cg_type": "P1S"
+    },
+    {
+      "id": 3,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 2,
+      "cg_type": "C3E"
+    },
+    {
+      "id": 4,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 0,
+      "cg_type": "P1S"
+    },
+    {
+      "id": 5,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 1,
+      "cg_type": "P1T"
+    },
+    {
+      "id": 6,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 2,
+      "cg_type": "C3E"
+    },
+    {
+      "id": 7,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 1,
+      "cg_type": "P1T"
+    },
+    {
+      "id": 8,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 1,
+      "cg_type": "P1T"
+    },
+    {
+      "id": 9,
+      "element": "N",
+      "charge": 0,
+      "cg_id": 4,
+      "cg_type": "M03"
+    },
+    {
+      "id": 10,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 3,
+      "cg_type": "P1S"
+    },
+    {
+      "id": 11,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 7,
+      "cg_type": "C3E"
+    },
+    {
+      "id": 12,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 7,
+      "cg_type": "C3E"
+    },
+    {
+      "id": 13,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 7,
+      "cg_type": "C3E"
+    },
+    {
+      "id": 14,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 6,
+      "cg_type": "M05"
+    },
+    {
+      "id": 15,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 5,
+      "cg_type": "P1T"
+    },
+    {
+      "id": 16,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 6,
+      "cg_type": "M05"
+    },
+    {
+      "id": 17,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 6,
+      "cg_type": "M05"
+    },
+    {
+      "id": 18,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 5,
+      "cg_type": "P1T"
+    },
+    {
+      "id": 19,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 6,
+      "cg_type": "M05"
+    },
+    {
+      "id": 20,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 5,
+      "cg_type": "P1T"
+    },
+    {
+      "id": 21,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 3,
+      "cg_type": "P1S"
+    },
+    {
+      "id": 22,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 8,
+      "cg_type": "C3E"
+    },
+    {
+      "id": 23,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 8,
+      "cg_type": "C3E"
+    },
+    {
+      "id": 24,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 10,
+      "cg_type": "RS2"
+    },
+    {
+      "id": 25,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 8,
+      "cg_type": "C3E"
+    },
+    {
+      "id": 26,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 10,
+      "cg_type": "RS2"
+    },
+    {
+      "id": 27,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 9,
+      "cg_type": "P1T"
+    },
+    {
+      "id": 28,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 9,
+      "cg_type": "P1T"
+    },
+    {
+      "id": 29,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 9,
+      "cg_type": "P1T"
+    },
+    {
+      "id": 30,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 13,
+      "cg_type": "M05"
+    },
+    {
+      "id": 31,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 13,
+      "cg_type": "M05"
+    },
+    {
+      "id": 32,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 14,
+      "cg_type": "P1S"
+    },
+    {
+      "id": 33,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 14,
+      "cg_type": "P1S"
+    },
+    {
+      "id": 34,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 13,
+      "cg_type": "M05"
+    },
+    {
+      "id": 35,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 13,
+      "cg_type": "M05"
+    },
+    {
+      "id": 36,
+      "element": "N",
+      "charge": 0,
+      "cg_id": 11,
+      "cg_type": "M03"
+    },
+    {
+      "id": 37,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 11,
+      "cg_type": "M03"
+    },
+    {
+      "id": 38,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 11,
+      "cg_type": "M03"
+    },
+    {
+      "id": 39,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 11,
+      "cg_type": "M03"
+    },
+    {
+      "id": 40,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 12,
+      "cg_type": "M02"
+    },
+    {
+      "id": 41,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 12,
+      "cg_type": "M02"
+    },
+    {
+      "id": 42,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 12,
+      "cg_type": "M02"
+    },
+    {
+      "id": 43,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 4,
+      "cg_type": "M03"
+    },
+    {
+      "id": 44,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 4,
+      "cg_type": "M03"
+    },
+    {
+      "id": 45,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 4,
+      "cg_type": "M03"
+    }
+  ],
+  "edges": [
+    {
+      "source": 5,
+      "target": 7,
+      "bondtype": 1.0
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "bondtype": 1.0
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "bondtype": 1.0
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "bondtype": 1.0
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "bondtype": 1.0
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "bondtype": 1.0
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "bondtype": 1.0
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "bondtype": 1.0
+    },
+    {
+      "source": 4,
+      "target": 0,
+      "bondtype": 1.0
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "bondtype": 1.0
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "bondtype": 1.0
+    },
+    {
+      "source": 12,
+      "target": 11,
+      "bondtype": 1.0
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "bondtype": 1.0
+    },
+    {
+      "source": 12,
+      "target": 14,
+      "bondtype": 1.0
+    },
+    {
+      "source": 13,
+      "target": 15,
+      "bondtype": 1.0
+    },
+    {
+      "source": 14,
+      "target": 16,
+      "bondtype": 1.0
+    },
+    {
+      "source": 14,
+      "target": 17,
+      "bondtype": 1.0
+    },
+    {
+      "source": 15,
+      "target": 18,
+      "bondtype": 1.0
+    },
+    {
+      "source": 15,
+      "target": 6,
+      "bondtype": 1.0
+    },
+    {
+      "source": 16,
+      "target": 19,
+      "bondtype": 1.0
+    },
+    {
+      "source": 18,
+      "target": 20,
+      "bondtype": 1.0
+    },
+    {
+      "source": 16,
+      "target": 18,
+      "bondtype": 1.0
+    },
+    {
+      "source": 10,
+      "target": 21,
+      "bondtype": 1.0
+    },
+    {
+      "source": 11,
+      "target": 22,
+      "bondtype": 1.0
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "bondtype": 1.0
+    },
+    {
+      "source": 23,
+      "target": 25,
+      "bondtype": 1.0
+    },
+    {
+      "source": 24,
+      "target": 26,
+      "bondtype": 1.0
+    },
+    {
+      "source": 25,
+      "target": 27,
+      "bondtype": 1.0
+    },
+    {
+      "source": 26,
+      "target": 28,
+      "bondtype": 1.0
+    },
+    {
+      "source": 27,
+      "target": 29,
+      "bondtype": 1.0
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "bondtype": 1.0
+    },
+    {
+      "source": 26,
+      "target": 30,
+      "bondtype": 1.0
+    },
+    {
+      "source": 30,
+      "target": 31,
+      "bondtype": 1.0
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "bondtype": 1.0
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "bondtype": 1.0
+    },
+    {
+      "source": 30,
+      "target": 34,
+      "bondtype": 1.0
+    },
+    {
+      "source": 31,
+      "target": 35,
+      "bondtype": 1.0
+    },
+    {
+      "source": 28,
+      "target": 36,
+      "bondtype": 1.0
+    },
+    {
+      "source": 36,
+      "target": 37,
+      "bondtype": 1.0
+    },
+    {
+      "source": 37,
+      "target": 38,
+      "bondtype": 1.0
+    },
+    {
+      "source": 37,
+      "target": 39,
+      "bondtype": 2.0
+    },
+    {
+      "source": 23,
+      "target": 40,
+      "bondtype": 1.0
+    },
+    {
+      "source": 23,
+      "target": 22,
+      "bondtype": 1.0
+    },
+    {
+      "source": 40,
+      "target": 41,
+      "bondtype": 2.0
+    },
+    {
+      "source": 40,
+      "target": 42,
+      "bondtype": 1.0
+    },
+    {
+      "source": 9,
+      "target": 43,
+      "bondtype": 1.0
+    },
+    {
+      "source": 43,
+      "target": 44,
+      "bondtype": 2.0
+    },
+    {
+      "source": 43,
+      "target": 45,
+      "bondtype": 1.0
+    }
+  ],
+  "rel doi": "",
+  "reliable degree": 1.0,
+  "note": "generated by builder.py"
+}

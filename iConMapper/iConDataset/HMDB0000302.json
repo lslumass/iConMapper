@@ -1,0 +1,529 @@
+{
+  "compound name": "HMDB0000302",
+  "smiles": "O=c1ccn([C@@H]2O[C@H](COP(=O)(O)OP(=O)(O)O[C@H]3O[C@H](CO)[C@H](O)[C@H](O)[C@H]3O)[C@@H](O)[C@H]2O)c(=O)[nH]1",
+  "cgnodes": [
+    8,
+    8,
+    6,
+    11,
+    5,
+    5,
+    10,
+    4,
+    5,
+    5,
+    4,
+    3,
+    4,
+    4,
+    2,
+    0,
+    2,
+    0,
+    1,
+    1,
+    3,
+    3,
+    2,
+    2,
+    1,
+    9,
+    10,
+    10,
+    11,
+    9,
+    9,
+    7,
+    7,
+    8,
+    8,
+    6
+  ],
+  "cgnode_types": [
+    "M05",
+    "M05",
+    "RS1",
+    "RU3",
+    "PHO",
+    "PHO",
+    "RU2",
+    "PHO",
+    "PHO",
+    "PHO",
+    "PHO",
+    "M07",
+    "PHO",
+    "PHO",
+    "M05",
+    "P1S",
+    "M05",
+    "P1S",
+    "P1T",
+    "P1T",
+    "M07",
+    "M07",
+    "M05",
+    "M05",
+    "P1T",
+    "RU1",
+    "RU2",
+    "RU2",
+    "RU3",
+    "RU1",
+    "RU1",
+    "RS2",
+    "RS2",
+    "M05",
+    "M05",
+    "RS1"
+  ],
+  "nodes": [
+    {
+      "id": 0,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 8,
+      "cg_type": "M05"
+    },
+    {
+      "id": 1,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 8,
+      "cg_type": "M05"
+    },
+    {
+      "id": 2,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 6,
+      "cg_type": "RS1"
+    },
+    {
+      "id": 3,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 11,
+      "cg_type": "RU3"
+    },
+    {
+      "id": 4,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 5,
+      "cg_type": "PHO"
+    },
+    {
+      "id": 5,
+      "element": "P",
+      "charge": 0,
+      "cg_id": 5,
+      "cg_type": "PHO"
+    },
+    {
+      "id": 6,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 10,
+      "cg_type": "RU2"
+    },
+    {
+      "id": 7,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 4,
+      "cg_type": "PHO"
+    },
+    {
+      "id": 8,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 5,
+      "cg_type": "PHO"
+    },
+    {
+      "id": 9,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 5,
+      "cg_type": "PHO"
+    },
+    {
+      "id": 10,
+      "element": "P",
+      "charge": 0,
+      "cg_id": 4,
+      "cg_type": "PHO"
+    },
+    {
+      "id": 11,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 3,
+      "cg_type": "M07"
+    },
+    {
+      "id": 12,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 4,
+      "cg_type": "PHO"
+    },
+    {
+      "id": 13,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 4,
+      "cg_type": "PHO"
+    },
+    {
+      "id": 14,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 2,
+      "cg_type": "M05"
+    },
+    {
+      "id": 15,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 0,
+      "cg_type": "P1S"
+    },
+    {
+      "id": 16,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 2,
+      "cg_type": "M05"
+    },
+    {
+      "id": 17,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 0,
+      "cg_type": "P1S"
+    },
+    {
+      "id": 18,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 1,
+      "cg_type": "P1T"
+    },
+    {
+      "id": 19,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 1,
+      "cg_type": "P1T"
+    },
+    {
+      "id": 20,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 3,
+      "cg_type": "M07"
+    },
+    {
+      "id": 21,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 3,
+      "cg_type": "M07"
+    },
+    {
+      "id": 22,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 2,
+      "cg_type": "M05"
+    },
+    {
+      "id": 23,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 2,
+      "cg_type": "M05"
+    },
+    {
+      "id": 24,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 1,
+      "cg_type": "P1T"
+    },
+    {
+      "id": 25,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 9,
+      "cg_type": "RU1"
+    },
+    {
+      "id": 26,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 10,
+      "cg_type": "RU2"
+    },
+    {
+      "id": 27,
+      "element": "N",
+      "charge": 0,
+      "cg_id": 10,
+      "cg_type": "RU2"
+    },
+    {
+      "id": 28,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 11,
+      "cg_type": "RU3"
+    },
+    {
+      "id": 29,
+      "element": "N",
+      "charge": 0,
+      "cg_id": 9,
+      "cg_type": "RU1"
+    },
+    {
+      "id": 30,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 9,
+      "cg_type": "RU1"
+    },
+    {
+      "id": 31,
+      "element": "O",
+      "charge": 0,
+      "cg_id": 7,
+      "cg_type": "RS2"
+    },
+    {
+      "id": 32,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 7,
+      "cg_type": "RS2"
+    },
+    {
+      "id": 33,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 8,
+      "cg_type": "M05"
+    },
+    {
+      "id": 34,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 8,
+      "cg_type": "M05"
+    },
+    {
+      "id": 35,
+      "element": "C",
+      "charge": 0,
+      "cg_id": 6,
+      "cg_type": "RS1"
+    }
+  ],
+  "edges": [
+    {
+      "source": 2,
+      "target": 4,
+      "bondtype": 1.0
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "bondtype": 1.0
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "bondtype": 1.0
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "bondtype": 2.0
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "bondtype": 1.0
+    },
+    {
+      "source": 7,
+      "target": 10,
+      "bondtype": 1.0
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "bondtype": 1.0
+    },
+    {
+      "source": 10,
+      "target": 12,
+      "bondtype": 2.0
+    },
+    {
+      "source": 10,
+      "target": 13,
+      "bondtype": 1.0
+    },
+    {
+      "source": 15,
+      "target": 17,
+      "bondtype": 1.0
+    },
+    {
+      "source": 19,
+      "target": 24,
+      "bondtype": 1.0
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "bondtype": 1.0
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "bondtype": 1.0
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "bondtype": 1.0
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "bondtype": 1.5
+    },
+    {
+      "source": 25,
+      "target": 30,
+      "bondtype": 1.5
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "bondtype": 1.0
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "bondtype": 1.0
+    },
+    {
+      "source": 34,
+      "target": 35,
+      "bondtype": 1.0
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "bondtype": 1.0
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "bondtype": 1.0
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "bondtype": 1.0
+    },
+    {
+      "source": 31,
+      "target": 35,
+      "bondtype": 1.0
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "bondtype": 1.5
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "bondtype": 1.5
+    },
+    {
+      "source": 28,
+      "target": 29,
+      "bondtype": 1.5
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "bondtype": 1.5
+    },
+    {
+      "source": 33,
+      "target": 0,
+      "bondtype": 1.0
+    },
+    {
+      "source": 34,
+      "target": 1,
+      "bondtype": 1.0
+    },
+    {
+      "source": 35,
+      "target": 2,
+      "bondtype": 1.0
+    },
+    {
+      "source": 21,
+      "target": 11,
+      "bondtype": 1.0
+    },
+    {
+      "source": 22,
+      "target": 14,
+      "bondtype": 1.0
+    },
+    {
+      "source": 19,
+      "target": 15,
+      "bondtype": 1.0
+    },
+    {
+      "source": 23,
+      "target": 16,
+      "bondtype": 1.0
+    },
+    {
+      "source": 24,
+      "target": 18,
+      "bondtype": 1.0
+    },
+    {
+      "source": 32,
+      "target": 29,
+      "bondtype": 1.0
+    },
+    {
+      "source": 28,
+      "target": 3,
+      "bondtype": 2.0
+    },
+    {
+      "source": 26,
+      "target": 6,
+      "bondtype": 2.0
+    }
+  ],
+  "rel doi": "",
+  "reliable degree": 1.0,
+  "note": "generated by builder.py"
+}
