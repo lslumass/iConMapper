@@ -3,16 +3,6 @@ DSGPM-TP is a deep learning-based model designed to automate the process of coar
 
 ## Model Training
 
-To train the DSGPM-TP model on your dataset, follow these steps:
-
-###  1. Prepare Your Dataset
-
-Each molecule item (`.json`) should include node features, edges, and the target CG labels.
-The `.json` example can be found in our prebuilt dataset of MARTINI2 `MARTINI2_Dataset`.
-
-###  2. Train Your Model
-
-You can use the following Shell script to train the DSGPM-TP model.
 ```
 cgloss=0.01
 mkdir ./ckpt/${cgloss}
